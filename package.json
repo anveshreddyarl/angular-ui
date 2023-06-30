@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "aws s3 sync dist/angular-demo/ s3://ui12345"
+    "deploy": "aws s3 sync dist/angular-demo/ s3://ui123"
   },
   "private": true,
   "dependencies": {
